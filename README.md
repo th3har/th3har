@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @th3har
+- 👀 I’m interested in Learning new things!
+- 🌱 I’m currently learning JS and In-Depth Lua
+- 📫 How to reach me (don't, I'm an introvert)
